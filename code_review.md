@@ -24,7 +24,7 @@
 
 #### Merge Request
 
-#### Создание
+![Image-Absolute](merge-request.png)
 
 - Используем шаблон <span style="color:red">.gitlab/merge_request_templates</span> из guidlines
 - Заполняем тему, описание, связанные задачи.
