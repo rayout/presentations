@@ -42,17 +42,17 @@
 
 ### Комманды поиска (фильтры)
 
-![search](youtrack/saved-commands.png)
+![search](youtrack/search-commands.png)
 
 +++ 
 
 ### Комманды
 
-Можно вызывать через CTRL+ALT+J
+- Можно вызывать через CTRL+ALT+J
+- Можно отправлять из коммита (привязывая к задаче)
 
 ![search](youtrack/commands.png)
 
-Можно отправлять из коммита (привязывая к задаче)
 
 +++
 ### Dashboard
