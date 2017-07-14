@@ -1,3 +1,3 @@
 ## Git
 
-![Image-Absolute](git.png)
+![Image-Absolute](git.jpg)
