@@ -25,13 +25,6 @@
 
 +++
 
-#### Поиск
-
----?image=youtrack/search-1.png&size=auto
-
-
----
-
 ## Типы задач
  
 +++
