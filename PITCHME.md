@@ -14,6 +14,5 @@
 
 ---?include=youtrack.md
 ---?include=code_review.md
----?include=merge_request.md
 ---?include=git.md
 
