@@ -1,6 +1,6 @@
 ## Youtrack
 
-##### <span style="font-family:Helvetica Neue; font-weight:bold">Все что вам нужно знать о том как не стать <span style="color:red">zombie</span> при выполнении задач</span>
+##### <span style="font-family:Helvetica Neue; font-weight:bold">Все что вам нужно знать о том как <span style="color:red">эффиктивно</span> использовать task tracker</span>
 
 +++
 
@@ -14,7 +14,7 @@
 - Панели мониторинга                       |
 - Отчеты                                   |
 
-+++
+---
 
 ## Управление Agile проектами
 
@@ -44,7 +44,7 @@
 - Понедельник - старт спринта
 - Sprint - 2 недели                                                         |
 - На Sprint берем  features которые можно детализировать во время спринта   |
-- Комманда разработки не бере ВНЕЗАПНЫЕ задачи                              |
+- Комманда разработки не берет ВНЕЗАПНЫЕ задачи                              |
 - В конце спринта должны получить "рабочий" продукт                         |
 - В конце спринта должны получить обратную связь от заказчика (менеджера)   |
 
@@ -56,7 +56,7 @@
 2. Команда поддержки учавствует в спринте если нет работы, но в основном занимается "техническим долгом"
 3. Разделение условное и существует пока у нас много legacy. При успешном введении agile разделения не будет.
 
-+++
+---
 
 ## Типы задач
  
@@ -116,11 +116,11 @@
 
 #### Документирование
 
-Почти к любой задачи можно написать документацию. Ведем в папке docs
+Почти к любой задаче можно написать документацию. Ведем в папке docs
 
-https://gitlab.kodeks.ru/kodeks/guidelines/blob/master/workflow/documentation.md
+<span style="font-family:Helvetica Neue; font-weight:bold font-size:20px">https://gitlab.kodeks.ru/kodeks/guidelines/blob/master/workflow/documentation.md</span>
 
-https://docsify.js.org/
+<span style="font-family:Helvetica Neue; font-weight:bold font-size:20px">https://docsify.js.org/<span>
 
 Любой метод или параметр должны вести туда где были созданы.
 
@@ -133,7 +133,8 @@ $variable = $this->getTheAnswerToLifeTheUniverseAndEverything();
 
 #### Code Review
 
-https://gitlab.kodeks.ru/kodeks/guidelines/blob/master/workflow/code-review.md
+Задача должна быть проверена другими разработчиками
+<span style="font-family:Helvetica Neue; font-weight:bold font-size:20px">https://gitlab.kodeks.ru/kodeks/guidelines/blob/master/workflow/code-review.md</span>
 
 +++
 
