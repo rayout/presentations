@@ -1,3 +1,3 @@
 ## Git
 
-![Image-Absolute](git.jpg)
+![Image-Absolute](git.jpg | width=400)
