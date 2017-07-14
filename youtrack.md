@@ -18,9 +18,9 @@
 
 #### Документация
 
-<span style="font-family:Helvetica Neue; font-weight:bold font-size:20px">https://www.jetbrains.com/help/youtrack/standalone/2017.2/YouTrack-Documentation.html</span>
+<span style="font-family:Helvetica Neue; font-weight:bold font-size:15px">https://www.jetbrains.com/help/youtrack/standalone/2017.2/YouTrack-Documentation.html</span>
 
- Учим английский ;)    |
+<span>Учим английский</span ;)    |
 
 
 +++
