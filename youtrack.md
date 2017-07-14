@@ -14,6 +14,19 @@
 - Панели мониторинга                       |
 - Отчеты                                   |
 
++++
+
+#### Документация
+
+https://www.jetbrains.com/help/youtrack/standalone/2017.2/YouTrack-Documentation.html
+
+Учим английский ;)    |
+
+#### Поиск
+
+---?image=youtrack/search-1.png&size=auto
+
+
 ---
 
 ## Типы задач
