@@ -120,6 +120,15 @@
 
 https://gitlab.kodeks.ru/kodeks/guidelines/blob/master/workflow/documentation.md
 
+https://docsify.js.org/
+
+Любой метод или параметр должны вести туда где были созданы.
+
+```php
+/** @var MyClass $variable */
+$variable = $this->getTheAnswerToLifeTheUniverseAndEverything();
+```
+
 +++
 
 #### Code Review
