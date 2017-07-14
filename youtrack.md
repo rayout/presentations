@@ -107,7 +107,7 @@ $variable = $this->getTheAnswerToLifeTheUniverseAndEverything();
 
 #### Code Review
 
-Задача должна быть проверена другими разработчиками
+Задача должна быть проверена другими разработчиками    
 <span style="font-family:Helvetica Neue; font-weight:bold; font-size:20px">https://gitlab.kodeks.ru/kodeks/guidelines/blob/master/workflow/code-review.md</span>
 
 +++
