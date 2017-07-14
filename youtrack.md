@@ -18,7 +18,7 @@
 
 #### Документация
 
-<span style="font-family:Helvetica Neue; font-weight:bold; font-size:10px">https://www.jetbrains.com/help/youtrack/standalone/2017.2/YouTrack-Documentation.html</span>
+<span style="font-family:Helvetica Neue; font-weight:bold; font-size:20px">https://www.jetbrains.com/help/youtrack/standalone/2017.2/YouTrack-Documentation.html</span>
 
 - Учим английский ;)    |
 
@@ -92,9 +92,9 @@
 
 Почти к любой задаче можно написать документацию. Ведем в папке docs
 
-<span style="font-family:Helvetica Neue; font-weight:bold font-size:20px">https://gitlab.kodeks.ru/kodeks/guidelines/blob/master/workflow/documentation.md</span>
+<span style="font-family:Helvetica Neue; font-weight:bold; font-size:20px">https://gitlab.kodeks.ru/kodeks/guidelines/blob/master/workflow/documentation.md</span>
 
-<span style="font-family:Helvetica Neue; font-weight:bold font-size:20px">https://docsify.js.org/<span>
+<span style="font-family:Helvetica Neue; font-weight:bold; font-size:20px">https://docsify.js.org/<span>
 
 Любой метод или параметр должны вести туда где были созданы.
 
@@ -108,7 +108,7 @@ $variable = $this->getTheAnswerToLifeTheUniverseAndEverything();
 #### Code Review
 
 Задача должна быть проверена другими разработчиками
-<span style="font-family:Helvetica Neue; font-weight:bold font-size:20px">https://gitlab.kodeks.ru/kodeks/guidelines/blob/master/workflow/code-review.md</span>
+<span style="font-family:Helvetica Neue; font-weight:bold; font-size:20px">https://gitlab.kodeks.ru/kodeks/guidelines/blob/master/workflow/code-review.md</span>
 
 +++
 
