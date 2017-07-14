@@ -29,6 +29,39 @@
 
 ![search](youtrack/search-1.png)
 
++++
+
+### Сохраненный поиск
+
+![search](youtrack/saved-search.png)
+
+- Можно расшаривать
+- Можно добавлять на dashboard (панель мониторинга)
+
++++
+
+### Комманды поиска (фильтры)
+
+![search](youtrack/saved-commands.png)
+
++++ 
+
+### Комманды
+
+Можно вызывать через CTRL+ALT+J
+
+![search](youtrack/commands.png)
+
+Можно отправлять из коммита (привязывая к задаче)
+
++++
+### Dashboard
+
+![search](youtrack/dashboard.png)
+
+
++++
+
 ## Типы задач
  
 +++
