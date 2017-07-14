@@ -25,13 +25,11 @@
 
 +++
 
-Поиск
----?image=youtrack/search-1.png&size=auto
+#### Поиск
 
+![search](youtrack/search-1.png)
 
 ## Типы задач
- 
- 1234
  
 +++
 
