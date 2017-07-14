@@ -1,3 +1,3 @@
 ## Git
 
-![Image-Absolute](git.jpg){:height="700px" width="400px"}
+![Image-Absolute](git.jpg =400px)
