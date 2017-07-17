@@ -83,7 +83,7 @@
  
 +++
 
-## Статусы (состояния задачи)
+## <span style="font-size:0.6em;">Статусы (состояния задачи)</span>
 ![Image-Absolute](youtrack-workflow.png)
 
 +++
